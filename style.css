@@ -1,0 +1,25 @@
+body{
+    background-color: gray;
+}
+#intro {
+    text-align: center;
+    color: white;
+}
+.grid {
+    margin-left: 400px;
+    width: 600px;
+    height: 600px; 
+    background-color: white;
+}
+
+#label{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+#size {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: green;
+}
